@@ -1,0 +1,48 @@
+.points {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.point_3 {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.point_5 {
+    list-style-position: inside;
+    text-align: right;
+}
+
+.point_7 {
+    list-style-position: inside;
+    text-align: right;
+}
+
+.point_15 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+}
+
+.line_1 {
+    width: 50%;
+}
+
+.line_2 {
+    width: 100px;
+}
+
+.cat {
+    float: right;
+}
+
+.nested_olist {
+    list-style-position: outside;
+}
+
+.nested_ulist {
+    list-style-position: outside;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
